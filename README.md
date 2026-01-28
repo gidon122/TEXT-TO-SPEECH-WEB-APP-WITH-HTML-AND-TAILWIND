@@ -1,4 +1,1 @@
-﻿# Text-to-speech
-# TEXT-TO-SPEECH-WEB-APP-WITH-HTML-AND-TAILWIND
 
-This is text to speech web app developed with html and tailwind css
